@@ -1,0 +1,1 @@
+ID | Date | Time | Description | IP Address | Host Name | MAC Address | User Name | TransactionID | QResult | Probationtime | CorrelationID | Dhcid | VendorClass(Hex) | VendorClass(ASCII) | UserClass(Hex) | UserClass(ASCII) | RelayAgentInformation | DnsRegError.
