@@ -8,6 +8,5 @@ To deploy this you will need:
 - Custom table: WinDHCP_CL
 - Custom columns in the table: EventType, SrcIpAddr, SrcHostname, SrcMacAddr, DhcpSessionId, DhcpVendorClass
 
-
 If you want to add more data, check your logs for the correct Rawdata format. For reference, here are the Rawdata fields in the correct order:
 ID | Date | Time | Description | IP Address | Host Name | MAC Address | User Name | TransactionID | QResult | Probationtime | CorrelationID | Dhcid | VendorClass(Hex) | VendorClass(ASCII) | UserClass(Hex) | UserClass(ASCII) | RelayAgentInformation | DnsRegError.
